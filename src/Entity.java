@@ -8,7 +8,7 @@ public abstract class Entity {
         this.coordinates = coordinates;
     }
 
-    public Entity() {};
+    public Entity() {}
 
     @Override
     public boolean equals(Object o) {
